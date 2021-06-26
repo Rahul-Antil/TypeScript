@@ -1,0 +1,21 @@
+
+npm install -g typescript
+tsc -v
+npm -v
+ng -v
+tsc helloworld.ts
+npm cache clean -f
+npm install npm@latest -g
+ng new ProjectName
+
+npm install -g express-generator
+node filename.js ( Start execution of node js file)
+
+npm install -g ts-node (Command line tool to run typescript files directly from console)
+command prompt> ts-node typescript-file.ts
+
+
+npm install @types/reflect-metadata --save-dev  (save dev options add a entry in package json file within project)
+
+
+

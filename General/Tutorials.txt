@@ -1,0 +1,47 @@
+TODO
+1. Map JSON to Typescript class objects
+2. Create code snippets in VS Code
+
+---------------------------------------------------------------------------------
+
+VS Code Extensions for Development
+1. Angular 2 Typescript Emmet
+2. Angular 5 snippets - Typescript
+3. Angular2-inline
+4. Angular2-switcher
+5. Auto Import
+6. Bracket Pair Colorizer
+7. Intellisense for CSS class
+8. Path Intellisense
+9. TS Lint
+10. Typescript hero
+11. VS Code Icons
+
+
+
+
+
+---------------------------------------------------------------------------------
+
+
+Mock JSON Server for Http Get Reqests
+https://my-json-server.typicode.com/
+
+---------------------------------------------------------------------------------
+
+Git url
+https://my-json-server.typicode.com/Rahul4518/Angular2
+
+---------------------------------------------------------------------------------
+
+Install and Integrate Git Hub with VS Code
+A. Download Git Set Up from https://git-scm.com/download/win
+B. Install and Restart VS Code
+C. In Repository pane at left hand check, check source control git is present
+D. Press Ctrl + Shift + P to open command palette
+E. Type Git:Clone and Provide Repository git hub url and local path
+F. Set git settigs with below command in git console mode :
+   git config --global user.email "may15rahul@gmail.com"
+   git config --global user.name "Rahul4518"
+G. Finished 
+

@@ -1,0 +1,42 @@
+
+
+Hide Files in Visual Studio Code
+A. .vscode folder > settings.json files ( add below lines)
+B. {
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.js.map": true
+    }
+}
+
+
+
+
+
+Install and Integrate Git Hub with VS Code
+A. Download Git Set Up from https://git-scm.com/download/win
+B. Install and Restart VS Code
+C. In Repository pane at left hand check, check source control git is present
+D. Press Ctrl + Shift + P to open command palette
+E. Type Git:Clone and Provide Repository git hub url and local path
+F. Set git settigs with below command in git console mode :
+   git config --global user.email "you@example.com"
+   git config --global user.name "Your Name"
+G. Finished
+
+Set Proxy in Git
+A.  git config --global http.proxy http://oneairtel\a1kupxnt:Patra#13@northproxy.airtelworld.in:4145
+B.  git config --global https.proxy http://oneairtel\a1kupxnt:Patra#13@northproxy.airtelworld.in:4145
+
+Add folders to ignore in Git
+A.  Create .gitignore file in Git Repository
+B.  add folders not to sync node_modules
+
+Clone Reporsitory
+A. Repo Path : https://github.com/Rahul4518/typescript.git
+B. Local Path : D:\angular_apps\typescript
+

@@ -1,0 +1,22 @@
+Articles
+----------------------------------------
+
+React Optimization Techinques : https://medium.com/technofunnel/https-medium-com-mayank-gupta-6-88-21-performance-optimizations-techniques-for-react-d15fa52c2349
+
+Identify and Resolve React waste renders : https://medium.com/free-code-camp/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10
+
+Write Cleaner JSX Components : https://itnext.io/write-clean-er-components-jsx-1e70491baded
+
+3 Ways to Theme React Components : https://blog.bitsrc.io/3-ways-to-theme-react-components-9cfa631351e9
+
+6 Ways to get better at React : https://medium.com/frontend-digest/six-ways-to-get-better-at-react-ccb321a7c35
+
+React Intro : https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
+
+React Animation Libraries : https://blog.bitsrc.io/react-animation-libraries-for-2020-437a21c73fed
+
+React Router Create Protected Routes : https://medium.com/javascript-in-plain-english/how-to-set-up-protected-routes-in-your-react-application-a3254deda380
+
+React 8-Custom Hooks : https://medium.com/better-programming/8-awesome-react-hooks-2cb31aed4f3d
+
+
